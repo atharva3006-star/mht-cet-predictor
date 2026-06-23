@@ -1,0 +1,13 @@
+.footer {
+  border-top: 1px solid var(--color-border);
+  background: var(--color-surface);
+  margin-top: auto;
+  padding: 24px 0;
+}
+
+.footer__inner p {
+  font-size: 13px;
+  color: var(--color-text-muted);
+  margin: 0;
+  max-width: 640px;
+}
